@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Olá:
 Olá, me chamo Luiz Felipe Padilha e estudo desenvolvimento a 3 anos,<br>atualmente minha profissão é analista de operações<br>sonho em trabalhar e contribuir para um grande projeto em uma grande empresa<br>desenvolvedor fullStack<br>-HTML<br>-CSS<br>-C#<br>-JAVA<br>-JAVASCRIPT<br><br><br>
 
 
