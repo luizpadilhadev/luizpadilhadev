@@ -1,5 +1,17 @@
 # 💫 Olá:
-me chamo Luiz Felipe Padilha e estudo desenvolvimento a 3 anos,<br>atualmente minha profissão é analista de operações<br>sonho em trabalhar e contribuir para um grande projeto em uma grande empresa<br>desenvolvedor fullStack<br>-HTML<br>-CSS<br>-C#<br>-JAVA<br>-JAVASCRIPT<br>-SpringBOOT<br>-JPA/HIBERNATE<br>-MAVEN
+Olá!
+
+Como desenvolvedor .NET com um ano de experiência, tenho trabalhado com as seguintes tecnologias e habilidades:
+
+.NET MVC: sou capaz de desenvolver aplicativos da web usando o modelo de arquitetura MVC, permitindo uma separação clara de responsabilidades entre as camadas do aplicativo.
+
+Entity Framework: tenho experiência em trabalhar com o Entity Framework, o que me permite criar e gerenciar objetos de banco de dados usando uma abordagem orientada a objetos.
+
+Desenvolvimento e manutenção: tenho habilidades em desenvolvimento e manutenção de aplicativos, incluindo resolução de bugs, adição de novos recursos e garantia da qualidade do código.
+
+MySQL: tenho experiência em trabalhar com o banco de dados MySQL, incluindo criação de tabelas, consultas e gerenciamento de dados.
+
+Estou buscando oportunidades para aplicar essas habilidades em um ambiente de trabalho desafiador e em constante evolução. Sinta-se à vontade para entrar em contato comigo para discutir como posso contribuir para sua empresa.
 
 
 ## 🌐 Socials:
